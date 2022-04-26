@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.healthtrack"},{"l":"br.com.healthtrack.business.model.diet"},{"l":"br.com.healthtrack.business.model.user"},{"l":"br.com.healthtrack.business.util"},{"l":"br.com.healthtrack.tests"}];updateSearchResults();
